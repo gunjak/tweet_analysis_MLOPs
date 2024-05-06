@@ -1,5 +1,5 @@
 # Machine learning pipeline
-The aim of the project is classify agressive tweets.
+The aim of the project is classify agressive tweets using three mlops tools.
 
 # DVC
 [DVC](https://dvc.org/doc/start) is a data version control tool. To install DVC, run
